@@ -1,0 +1,157 @@
+1.You are a Named Entity Recognition in English Language.
+2.Do some analysis to extract the Keywords, that is important entities, from the text. 
+3.Assign a Category for each entity, in Upper Case. Assign MISC for Entities which cannot be classified easily.
+4.Extract a Summary Definition for each Keyword Extracted. The Summary Definition must not be more than 100 words length. If no definition is available, assign NOT AVAILABLE. 
+5.The Summary must be sourced ONLY from the text following this prompt. YOU MAY IMPROVISE REGARDING FORMAT AND EXPRESSION BUT THE CONTENT MUST BE DERIVED FROM THE PROMT ALONE
+6. Return this result as JSON for each Keyword. Thus each Keyword will have 3 JSON Attributes: Entity, Category and Definition.
+Analyze the following text:
+
+Hello, everyone.
+So this video will be will be a gentle and brief introduction on what is data science, what is artificial
+intelligence, machine learning and deep learning.
+And this will be a short video just in like getting ourselves familiarized with the basic definition
+of all these four concepts.
+So let's get started.
+So just remember this diagram and I will be covering the definition also.
+So data science is something which which overlaps with all deep learning, machine learning and artificial
+intelligence.
+And this is a very, very wide and extensive field.
+It contains a lot of like mathematics, maths statistics and other things.
+But this, these three things, so deep learning is a very, very, very specialized field.
+And deep learning, we can say, is a subset of machine learning.
+And machine learning is all about computers learning or machines learning about the different like they
+are learning about the system and coming up with a way to predict or predict the outcome.
+So deep learning is very specialized.
+It's a subset.
+It's a it's a specialized field of machine learning.
+And same way machine learning is a superset of deep learning.
+But machine learning is a subset of artificial intelligence, which is a very huge and wide field.
+So deep learning is part of machine learning.
+Machine learning is a part of artificial intelligence.
+And we can say deep learning is also a very small subset of artificial intelligence.
+So just think of just remember this diagram and you will be like able to distinguish between these three
+concepts and data.
+Science is something where separate, but it has a connection with all three topics.
+So data science.
+So data science is a field that involves using statistical and computational techniques to extract insights
+and knowledge from data.
+It is a multidisciplinary disciplinary field that combines elements from computer science statistics
+and domain expertise in order to understand and analyze complex data sets.
+Data.
+Scientists use a variety of tools and techniques to analyze data, including machine learning, algorithms,
+statistics, statistical analysis and visualization tools.
+So Data Science Part two.
+So they work with structured and unstructured data and use a variety of methods to clean prepare and
+process the data for analysis.
+The goal of data science is to extract useful insights and knowledge from data that can be used to inform
+decision making and solve problems.
+Data scientists may work in a variety of industries, including finance, healthcare and e-commerce,
+and may use their skills to tackle a wide range of problems, such as predicting customer behaviour,
+optimizing supply chain logistics or improve health healthcare outcomes.
+So next is machine learning.
+Machine learning is a method of teaching computers to learn from data without being explicitly programmed.
+It is a subset of artificial intelligence that focuses on the development of computer programs that
+can access data and use it to learn for themselves.
+There are three main types of machine learning.
+Supervised Learning.
+Unsupervised learning and reinforcement learning.
+In supervised learning.
+The computer is given a set of labeled training data and a set of desired outputs, and the algorithm
+learns to map the inputs to the outputs.
+For example, a supervised learning algorithm might be trained to classify email as spam or not spam
+based on a set of labeled examples.
+In unsupervised learning.
+The algorithm is given a set of data without any labels, and it must find patterns and relationships
+in the data.
+One example of unsupervised learning is clustering, where the algorithm groups similar data points
+together.
+In reinforcement learning, the algorithm learns by interacting with its environment and receiving towards
+rewards or penalties for certain actions.
+So reinforcement enforcement learning is mostly used in like automatic, like self-driving cars and
+robots and race cars where there is no human involved.
+So or in some kind of game where you want to program like some, uh, some toy or something and it will
+keep like going through multiple, multiple races and see, every time it, it has an accident or it
+hits, it learns and it creates a reinforcement, like a reward.
+What is the reward and what is a penalty?
+And it will just keep doing that and it will learn from that environment.
+So this is the type of learning used by, as I mentioned, self-driving cars and robots to learn how
+to navigate their environments.
+So next is artificial intelligence.
+Artificial intelligence refers to the ability of computers and machines to perform tasks that would
+normally require human intelligence, such as learning problem solving and decision making.
+So as I mentioned, this is a higher form of of machine learning or deep learning, but this is a higher
+form.
+So this is a machine learning involved, plus some some kind of intelligence like some kind of problem
+solving or decision making skills.
+So there are several types of artificial intelligence, including narrow or weak artificial intelligence.
+This type of AI is used to perform a specific task, such as playing a game or recognizing speech.
+It is not generally capable of performing other tasks, general or strong AI.
+This type of AI is capable of performing a wide range of tasks and can exhibit human like intelligence.
+And last is artificial superintelligence.
+This is a hypothetical future form of AI that would surpass human intelligence in a wide range of domains.
+So next, again, continuing artificial intelligence is achieved through a combination of machine learning
+algorithms and other techniques that allow computers to process and analyze data in order to make decisions
+and take actions.
+Some common applications of AI include image and speech recognition, natural language processing and
+autonomous vehicles.
+He has the potential to revolutionize.
+Revolutionize many industries and has already had a significant impact on fields such as healthcare,
+finance and manufacturing.
+Next last concept is deep learning.
+Deep learning is a subfield of machine learning that is inspired by the structure and function of the
+brain, especially the neural networks that make up the brain.
+It involves training artificial neural networks on a large dataset, allowing allowing the network to
+learn and make intelligent decisions on its own.
+Deep learning algorithms are constructed using multiple layers of artificial neural networks with each
+layer processing the input data and passing it on to the next layer.
+So part to this hierarchical structure allows the algorithm to learn and represent very complex patterns
+in the data.
+Deep learning has been successful in a wide range of applications, including image and speech recognition,
+natural language processing and even playing games like Chess and Go.
+It has also been used to improve the performance of machine learning algorithms in other fields such
+as healthcare and finance.
+So just I'll try to explain in the simplest possible way.
+In manual programming.
+So in like in regular programming, you tell the computer like what is the algorithm equation formula
+or rules, for example, I'll just take one example.
+For example, you tell like you give some input and you say one plus two equal to three.
+So you just program, you just write a program where that it gets two inputs and outcome or output wil
+be three.
+So you just you just tell that this is the formula, this is the equation, this is the rule.
+So the computer will just perform this.
+There is no learning involved.
+Just you tell this is the the formula, right?
+But in machine learning machines learn the algorithm equation or the formula by themselves, by different
+permutations.
+So for example.
+You just feed in the data.
+You just say input that to input, for example, A and B and the outcome or output.
+Let's just call let's call it C, So you just say a B is the input and output will be six and you just
+feed in more data like three and four and output is is 12 and same.
+You have given the three set of data, just very simplistic example like even 1 or 2 will do.
+But just to, just to put my point across.
+So you just feed in, for example, the third set of data like four into four and five A and B and the
+output will be 20 in this case.
+So you tell the computer that, tell me what is the formula like?
+What is the equation?
+And in this case, for simplistic, it can be plus minus, multiply or divide.
+So so machines will go through all the data and will figure out, okay, this is like a multiplication
+multiplication.
+So this is very simplistic way, but in in real world will be like a very complex problem.
+It can have exponential logarithms, root square, root, quadratic, root, all kind of things can
+go.
+It can be there will be multiple like features where multiple inputs it can span ten, 2000s also and
+there will be one single output.
+And the mathematical operator can be not for it can be any number of it can be root, square, root
+log exponential.
+So the computer will just will go through all the data and finally come up with the most optimal like
+generic equation.
+And then that's how they learn.
+So we don't have to program and figure out all the logic and all.
+So for complex real world problems, you feed in lots of data and expected outcomes and machines will
+come up with the algorithm equation or the formula.
+So you can just some some people will call it algorithm rules equation problem.
+So just think of anything that can represent some real world problem and what could be the expected
+solution.
+So that's all.
+Thanks for watching.
