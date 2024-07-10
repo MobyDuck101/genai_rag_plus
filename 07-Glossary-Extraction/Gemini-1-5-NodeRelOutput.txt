@@ -1,0 +1,1204 @@
+```json
+{
+"nodes": {
+"Professional Machine Learning Engineer": {
+"type": "person"
+},
+"Google Cloud": {
+"type": "organization"
+},
+"ML model": {
+"type": "concept"
+},
+"large dataset": {
+"type": "concept"
+},
+"code": {
+"type": "concept"
+},
+"responsible AI": {
+"type": "concept"
+},
+"fairness": {
+"type": "concept"
+},
+"ML model development": {
+"type": "concept"
+},
+"job role": {
+"type": "concept"
+},
+"ML-based application": {
+"type": "concept"
+},
+"programming skill": {
+"type": "concept"
+},
+"data platform": {
+"type": "concept"
+},
+"distributed data processing tool": {
+"type": "concept"
+},
+"model architecture": {
+"type": "concept"
+},
+"data pipeline": {
+"type": "concept"
+},
+"ML pipeline": {
+"type": "concept"
+},
+"metrics interpretation": {
+"type": "concept"
+},
+"MLOps": {
+"type": "concept"
+},
+"application development": {
+"type": "concept"
+},
+"infrastructure management": {
+"type": "concept"
+},
+"data engineering": {
+"type": "concept"
+},
+"data governance": {
+"type": "concept"
+},
+"model": {
+"type": "concept"
+},
+"solution": {
+"type": "concept"
+},
+"Python": {
+"type": "programming language"
+},
+"Cloud SQL": {
+"type": "software"
+},
+"generative AI": {
+"type": "concept"
+},
+"Introduction to Generative AI Learning Path": {
+"type": "course"
+},
+"Generative AI for Developers Learning Path": {
+"type": "course"
+},
+"Gen AI partner courses": {
+"type": "course"
+},
+"Generative AI for ML Engineers": {
+"type": "course"
+},
+"BigQuery ML": {
+"type": "software"
+},
+"linear classification": {
+"type": "concept"
+},
+"binary classification": {
+"type": "concept"
+},
+"regression": {
+"type": "concept"
+},
+"time-series": {
+"type": "concept"
+},
+"matrix factorization": {
+"type": "concept"
+},
+"boosted trees": {
+"type": "concept"
+},
+"autoencoder": {
+"type": "concept"
+},
+"feature engineering": {
+"type": "concept"
+},
+"feature selection": {
+"type": "concept"
+},
+"prediction": {
+"type": "concept"
+},
+"ML API": {
+"type": "concept"
+},
+"Cloud Vision API": {
+"type": "software"
+},
+"Natural Language API": {
+"type": "software"
+},
+"Cloud Speech API": {
+"type": "software"
+},
+"Translation": {
+"type": "concept"
+},
+"Document AI API": {
+"type": "software"
+},
+"Retail API": {
+"type": "software"
+},
+"AutoML": {
+"type": "software"
+},
+"data labeling": {
+"type": "concept"
+},
+"Tabular Workflows": {
+"type": "software"
+},
+"tabular data": {
+"type": "concept"
+},
+"text": {
+"type": "concept"
+},
+"speech": {
+"type": "concept"
+},
+"image": {
+"type": "concept"
+},
+"video": {
+"type": "concept"
+},
+"custom model": {
+"type": "concept"
+},
+"forecasting model": {
+"type": "concept"
+},
+"Cloud Storage": {
+"type": "software"
+},
+"BigQuery": {
+"type": "software"
+},
+"Spanner": {
+"type": "software"
+},
+"Cloud SQL": {
+"type": "software"
+},
+"Apache Spark": {
+"type": "software"
+},
+"Apache Hadoop": {
+"type": "software"
+},
+"Vertex AI": {
+"type": "software"
+},
+"Dataflow": {
+"type": "software"
+},
+"TensorFlow Extended": {
+"type": "software"
+},
+"Vertex AI Feature Store": {
+"type": "software"
+},
+"privacy": {
+"type": "concept"
+},
+"PII": {
+"type": "concept"
+},
+"PHI": {
+"type": "concept"
+},
+"Jupyter notebook": {
+"type": "software"
+},
+"Vertex AI Workbench": {
+"type": "software"
+},
+"Dataproc": {
+"type": "software"
+},
+"security best practice": {
+"type": "concept"
+},
+"Spark kernel": {
+"type": "concept"
+},
+"code source repository": {
+"type": "concept"
+},
+"TensorFlow": {
+"type": "software"
+},
+"PyTorch": {
+"type": "software"
+},
+"sklearn": {
+"type": "software"
+},
+"JAX": {
+"type": "software"
+},
+"Vertex AI Experiments": {
+"type": "software"
+},
+"Kubeflow Pipelines": {
+"type": "software"
+},
+"Vertex AI TensorBoard": {
+"type": "software"
+},
+"ML framework": {
+"type": "concept"
+},
+"model architecture": {
+"type": "concept"
+},
+"interpretability": {
+"type": "concept"
+},
+"training data": {
+"type": "concept"
+},
+"CSV": {
+"type": "concept"
+},
+"JSON": {
+"type": "concept"
+},
+"Hadoop": {
+"type": "software"
+},
+"database": {
+"type": "concept"
+},
+"SDK": {
+"type": "concept"
+},
+"Vertex AI custom training": {
+"type": "software"
+},
+"Kubeflow": {
+"type": "software"
+},
+"Google Kubernetes Engine": {
+"type": "software"
+},
+"distributed training": {
+"type": "concept"
+},
+"hyperparameter tuning": {
+"type": "concept"
+},
+"troubleshooting": {
+"type": "concept"
+},
+"compute": {
+"type": "concept"
+},
+"accelerator": {
+"type": "concept"
+},
+"CPU": {
+"type": "concept"
+},
+"GPU": {
+"type": "concept"
+},
+"TPU": {
+"type": "concept"
+},
+"edge device": {
+"type": "concept"
+},
+"Reduction Server": {
+"type": "software"
+},
+"Horovod": {
+"type": "software"
+},
+"batch inference": {
+"type": "concept"
+},
+"online inference": {
+"type": "concept"
+},
+"Dataflow": {
+"type": "software"
+},
+"BigQuery ML": {
+"type": "software"
+},
+"Dataproc": {
+"type": "software"
+},
+"PyTorch": {
+"type": "software"
+},
+"XGBoost": {
+"type": "software"
+},
+"model registry": {
+"type": "concept"
+},
+"A/B testing": {
+"type": "concept"
+},
+"Vertex AI Feature Store": {
+"type": "software"
+},
+"Vertex AI public endpoint": {
+"type": "concept"
+},
+"Vertex AI private endpoint": {
+"type": "concept"
+},
+"CPU": {
+"type": "concept"
+},
+"GPU": {
+"type": "concept"
+},
+"TPU": {
+"type": "concept"
+},
+"edge": {
+"type": "concept"
+},
+"Vertex AI Prediction": {
+"type": "software"
+},
+"containerized serving": {
+"type": "concept"
+},
+"tuning": {
+"type": "concept"
+},
+"performance": {
+"type": "concept"
+},
+"latency": {
+"type": "concept"
+},
+"memory": {
+"type": "concept"
+},
+"throughput": {
+"type": "concept"
+},
+"ML pipeline": {
+"type": "concept"
+},
+"data validation": {
+"type": "concept"
+},
+"model validation": {
+"type": "concept"
+},
+"data preprocessing": {
+"type": "concept"
+},
+"MLFlow": {
+"type": "software"
+},
+"Cloud Build": {
+"type": "software"
+},
+"Cloud Run": {
+"type": "software"
+},
+"orchestration framework": {
+"type": "concept"
+},
+"Kubeflow Pipelines": {
+"type": "software"
+},
+"Vertex AI Pipelines": {
+"type": "software"
+},
+"Cloud Composer": {
+"type": "software"
+},
+"hybrid strategy": {
+"type": "concept"
+},
+"multicloud strategy": {
+"type": "concept"
+},
+"system design": {
+"type": "concept"
+},
+"TFX": {
+"type": "software"
+},
+"Kubeflow DSL": {
+"type": "software"
+},
+"Dataflow": {
+"type": "software"
+},
+"retraining policy": {
+"type": "concept"
+},
+"continuous integration": {
+"type": "concept"
+},
+"continuous delivery": {
+"type": "concept"
+},
+"CI/CD": {
+"type": "concept"
+},
+"model deployment": {
+"type": "concept"
+},
+"Cloud Build": {
+"type": "software"
+},
+"Jenkins": {
+"type": "software"
+},
+"metadata": {
+"type": "concept"
+},
+"model artifact": {
+"type": "concept"
+},
+"model version": {
+"type": "concept"
+},
+"Vertex AI Experiments": {
+"type": "software"
+},
+"Vertex ML Metadata": {
+"type": "software"
+},
+"model versioning": {
+"type": "concept"
+},
+"dataset versioning": {
+"type": "concept"
+},
+"model lineage": {
+"type": "concept"
+},
+"data lineage": {
+"type": "concept"
+},
+"risk": {
+"type": "concept"
+},
+"ML solution": {
+"type": "concept"
+},
+"security": {
+"type": "concept"
+},
+"unintentional exploitation": {
+"type": "concept"
+},
+"hacking": {
+"type": "concept"
+},
+"Responsible AI": {
+"type": "concept"
+},
+"bias": {
+"type": "concept"
+},
+"readiness": {
+"type": "concept"
+},
+"data bias": {
+"type": "concept"
+},
+"fairness": {
+"type": "concept"
+},
+"model explainability": {
+"type": "concept"
+},
+"Vertex AI Prediction": {
+"type": "software"
+},
+"monitoring": {
+"type": "concept"
+},
+"testing": {
+"type": "concept"
+},
+"troubleshooting": {
+"type": "concept"
+},
+"continuous evaluation metric": {
+"type": "concept"
+},
+"Vertex AI Model Monitoring": {
+"type": "software"
+},
+"Explainable AI": {
+"type": "concept"
+},
+"training-serving skew": {
+"type": "concept"
+},
+"feature attribution drift": {
+"type": "concept"
+},
+"model performance": {
+"type": "concept"
+},
+"baseline": {
+"type": "concept"
+},
+"simple model": {
+"type": "concept"
+},
+"time dimension": {
+"type": "concept"
+},
+"training error": {
+"type": "concept"
+},
+"serving error": {
+"type": "concept"
+}
+},
+"edges": [
+{
+"source": "Professional Machine Learning Engineer",
+"target": "Google Cloud",
+"relation": "WORKS_FOR"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML model",
+"relation": "BUILDS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML model",
+"relation": "EVALUATES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML model",
+"relation": "PRODUCTIONIZES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML model",
+"relation": "OPTIMIZES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "large dataset",
+"relation": "HANDLES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "code",
+"relation": "CREATES"
+},
+{
+"source": "code",
+"target": "repeatable",
+"relation": "IS"
+},
+{
+"source": "code",
+"target": "reusable",
+"relation": "IS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "responsible AI",
+"relation": "CONSIDERS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "fairness",
+"relation": "CONSIDERS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML model development",
+"relation": "CONSIDERS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "job role",
+"relation": "COLLABORATES_WITH"
+},
+{
+"source": "job role",
+"target": "ML-based application",
+"relation": "ENSURES_SUCCESS_OF"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "programming skill",
+"relation": "HAS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "data platform",
+"relation": "HAS_EXPERIENCE_WITH"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "distributed data processing tool",
+"relation": "HAS_EXPERIENCE_WITH"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model architecture",
+"relation": "IS_PROFICIENT_IN"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "data pipeline",
+"relation": "IS_PROFICIENT_IN"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML pipeline",
+"relation": "IS_PROFICIENT_IN"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "metrics interpretation",
+"relation": "IS_PROFICIENT_IN"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "MLOps",
+"relation": "IS_FAMILIAR_WITH"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "application development",
+"relation": "IS_FAMILIAR_WITH"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "infrastructure management",
+"relation": "IS_FAMILIAR_WITH"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "data engineering",
+"relation": "IS_FAMILIAR_WITH"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "data governance",
+"relation": "IS_FAMILIAR_WITH"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model",
+"relation": "TRAINS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model",
+"relation": "RETRAINS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model",
+"relation": "DEPLOYS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model",
+"relation": "SCHEDULES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model",
+"relation": "MONITORS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model",
+"relation": "IMPROVES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "solution",
+"relation": "DESIGNS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "solution",
+"relation": "CREATES"
+},
+{
+"source": "solution",
+"target": "scalable",
+"relation": "IS"
+},
+{
+"source": "solution",
+"target": "performant",
+"relation": "IS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "Python",
+"relation": "HAS_PROFICIENCY_IN"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "Cloud SQL",
+"relation": "HAS_PROFICIENCY_IN"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "generative AI",
+"relation": "DOES_NOT_COVER"
+},
+{
+"source": "generative AI",
+"target": "tool",
+"relation": "USES"
+},
+{
+"source": "tool",
+"target": "generative AI-based solution",
+"relation": "DEVELOPS"
+},
+{
+"source": "tool",
+"target": "evolving",
+"relation": "IS"
+},
+{
+"source": "Introduction to Generative AI Learning Path",
+"target": "generative AI",
+"relation": "COVERS"
+},
+{
+"source": "Generative AI for Developers Learning Path",
+"target": "generative AI",
+"relation": "COVERS"
+},
+{
+"source": "Gen AI partner courses",
+"target": "generative AI",
+"relation": "COVERS"
+},
+{
+"source": "Generative AI for ML Engineers",
+"target": "generative AI",
+"relation": "COVERS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "BigQuery ML",
+"relation": "USES"
+},
+{
+"source": "BigQuery ML",
+"target": "ML model",
+"relation": "BUILDS"
+},
+{
+"source": "BigQuery ML",
+"target": "linear classification",
+"relation": "BUILDS"
+},
+{
+"source": "BigQuery ML",
+"target": "binary classification",
+"relation": "BUILDS"
+},
+{
+"source": "BigQuery ML",
+"target": "regression",
+"relation": "BUILDS"
+},
+{
+"source": "BigQuery ML",
+"target": "time-series",
+"relation": "BUILDS"
+},
+{
+"source": "BigQuery ML",
+"target": "matrix factorization",
+"relation": "BUILDS"
+},
+{
+"source": "BigQuery ML",
+"target": "boosted trees",
+"relation": "BUILDS"
+},
+{
+"source": "BigQuery ML",
+"target": "autoencoder",
+"relation": "BUILDS"
+},
+{
+"source": "BigQuery ML",
+"target": "feature engineering",
+"relation": "PERFORMS"
+},
+{
+"source": "BigQuery ML",
+"target": "feature selection",
+"relation": "PERFORMS"
+},
+{
+"source": "BigQuery ML",
+"target": "prediction",
+"relation": "GENERATES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML API",
+"relation": "USES"
+},
+{
+"source": "ML API",
+"target": "application",
+"relation": "BUILDS"
+},
+{
+"source": "Cloud Vision API",
+"target": "ML API",
+"relation": "IS_A"
+},
+{
+"source": "Natural Language API",
+"target": "ML API",
+"relation": "IS_A"
+},
+{
+"source": "Cloud Speech API",
+"target": "ML API",
+"relation": "IS_A"
+},
+{
+"source": "Translation",
+"target": "ML API",
+"relation": "IS_A"
+},
+{
+"source": "Document AI API",
+"target": "ML API",
+"relation": "IS_A"
+},
+{
+"source": "Retail API",
+"target": "ML API",
+"relation": "IS_A"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "AutoML",
+"relation": "USES"
+},
+{
+"source": "AutoML",
+"target": "data",
+"relation": "PREPARES"
+},
+{
+"source": "data",
+"target": "feature selection",
+"relation": "INCLUDES"
+},
+{
+"source": "data",
+"target": "data labeling",
+"relation": "INCLUDES"
+},
+{
+"source": "Tabular Workflows",
+"target": "AutoML",
+"relation": "IS_A"
+},
+{
+"source": "AutoML",
+"target": "data",
+"relation": "USES"
+},
+{
+"source": "data",
+"target": "tabular",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "text",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "speech",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "image",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "video",
+"relation": "IS"
+},
+{
+"source": "AutoML",
+"target": "custom model",
+"relation": "TRAINS"
+},
+{
+"source": "AutoML",
+"target": "forecasting model",
+"relation": "CREATES"
+},
+{
+"source": "AutoML",
+"target": "trained model",
+"relation": "CONFIGURES"
+},
+{
+"source": "AutoML",
+"target": "trained model",
+"relation": "DEBUGS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "data",
+"relation": "EXPLORES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "data",
+"relation": "PREPROCESSES"
+},
+{
+"source": "Cloud Storage",
+"target": "data",
+"relation": "ORGANIZES"
+},
+{
+"source": "BigQuery",
+"target": "data",
+"relation": "ORGANIZES"
+},
+{
+"source": "Spanner",
+"target": "data",
+"relation": "ORGANIZES"
+},
+{
+"source": "Cloud SQL",
+"target": "data",
+"relation": "ORGANIZES"
+},
+{
+"source": "Apache Spark",
+"target": "data",
+"relation": "ORGANIZES"
+},
+{
+"source": "Apache Hadoop",
+"target": "data",
+"relation": "ORGANIZES"
+},
+{
+"source": "data",
+"target": "tabular",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "text",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "speech",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "image",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "video",
+"relation": "IS"
+},
+{
+"source": "Vertex AI",
+"target": "dataset",
+"relation": "MANAGES"
+},
+{
+"source": "Dataflow",
+"target": "data",
+"relation": "PREPROCESSES"
+},
+{
+"source": "TensorFlow Extended",
+"target": "data",
+"relation": "PREPROCESSES"
+},
+{
+"source": "BigQuery",
+"target": "data",
+"relation": "PREPROCESSES"
+},
+{
+"source": "Vertex AI Feature Store",
+"target": "feature",
+"relation": "CREATES"
+},
+{
+"source": "Vertex AI Feature Store",
+"target": "feature",
+"relation": "CONSOLIDATES"
+},
+{
+"source": "data usage",
+"target": "privacy",
+"relation": "HAS_IMPLICATIONS_FOR"
+},
+{
+"source": "data collection",
+"target": "privacy",
+"relation": "HAS_IMPLICATIONS_FOR"
+},
+{
+"source": "data",
+"target": "sensitive",
+"relation": "IS"
+},
+{
+"source": "data",
+"target": "PII",
+"relation": "INCLUDES"
+},
+{
+"source": "data",
+"target": "PHI",
+"relation": "INCLUDES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model",
+"relation": "PROTOTYPES"
+},
+{
+"source": "Jupyter notebook",
+"target": "model",
+"relation": "PROTOTYPES"
+},
+{
+"source": "Vertex AI Workbench",
+"target": "Jupyter notebook",
+"relation": "PROVIDES_BACKEND_FOR"
+},
+{
+"source": "Dataproc",
+"target": "Jupyter notebook",
+"relation": "PROVIDES_BACKEND_FOR"
+},
+{
+"source": "Vertex AI Workbench",
+"target": "security best practice",
+"relation": "APPLIES"
+},
+{
+"source": "Spark kernel",
+"target": "Jupyter notebook",
+"relation": "USES"
+},
+{
+"source": "Jupyter notebook",
+"target": "code source repository",
+"relation": "INTEGRATES_WITH"
+},
+{
+"source": "Vertex AI Workbench",
+"target": "model",
+"relation": "DEVELOPS"
+},
+{
+"source": "TensorFlow",
+"target": "model",
+"relation": "DEVELOPS"
+},
+{
+"source": "PyTorch",
+"target": "model",
+"relation": "DEVELOPS"
+},
+{
+"source": "sklearn",
+"target": "model",
+"relation": "DEVELOPS"
+},
+{
+"source": "Spark",
+"target": "model",
+"relation": "DEVELOPS"
+},
+{
+"source": "JAX",
+"target": "model",
+"relation": "DEVELOPS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML experiment",
+"relation": "TRACKS"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "ML experiment",
+"relation": "RUNS"
+},
+{
+"source": "Vertex AI Experiments",
+"target": "Google Cloud environment",
+"relation": "IS_A"
+},
+{
+"source": "Kubeflow Pipelines",
+"target": "Google Cloud environment",
+"relation": "IS_A"
+},
+{
+"source": "Vertex AI TensorBoard",
+"target": "Google Cloud environment",
+"relation": "IS_A"
+},
+{
+"source": "Vertex AI TensorBoard",
+"target": "TensorFlow",
+"relation": "USES"
+},
+{
+"source": "Vertex AI TensorBoard",
+"target": "PyTorch",
+"relation": "USES"
+},
+{
+"source": "Professional Machine Learning Engineer",
+"target": "model",
+"relation": "BUILDS"
