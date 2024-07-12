@@ -1,0 +1,7 @@
+What are the pros and cons around Heroku PostGres database vs AWS Managed PostGres Database Service.
+Please list in tabular format as follows.
+1. Key Item Name - 10 words Max
+2. Key Item Category - 10 words Max
+3. Pro Or Con - "Pro" or "Con"
+3. Description - 100 words Max
+Source Web Page - Must be from Heroku or AWS public cloud documentation
