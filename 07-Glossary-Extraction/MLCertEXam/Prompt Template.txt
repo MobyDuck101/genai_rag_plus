@@ -1,0 +1,9 @@
+Please provide summary Information on the following topic
+      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Source this information exclusively from Google Cloud Documentation Web Pages. 
+Present the Information in tabular format
+1. Key Item - maximum of 10 words
+2. Key Item Category - maximum of 10 Words
+3. Key Item Summary - maximum of 50 words
+4. Key Item Use Cases - Brief List separated by commas. maximum of 50 words
+4. URL to Source Document Page which must be from Google Cloud Documentation Web Pages. 
