@@ -1,0 +1,13 @@
+Please provide summary Information on the following Machine Learning Models
+   linear and binary classification, regression, time-series, matrix factorization, boosted trees, autoencoders
+Present the Information in tabular format
+1. Model Name - One of linear classification, binary classification, regression, time-series, matrix factorization, boosted trees, autoencoders
+2. Model Category - maximum of 10 Words
+3. Model Summary - maximum of 100 words
+4. Model Use Cases - Cases suited to this Model. Brief List separated by Full Stop. maximum of 100 words
+5. Model Non Use Cases - Cases NOT suited to this Model. Brief List separated by Full Stop. maximum of 100 words
+6. Model Strengths - Summary of Positive Aspects of this Model. maximum of 100 words
+7. Model Weaknesses - Summary of Negative Aspects of this Model. maximum of 100 words
+8. Attribution From GCP - Web Link supporting information from this Model from GCP Cloud Documentation
+9. Attribution from outside of GCP - Web Link supporting information from this Model NOT from GCP Cloud Documentation
+10 Attribution from GCP BigQuery ML - Web Link supporting information from this Model from GCP BigQuery ML Cloud Documentation
